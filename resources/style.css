@@ -1,4 +1,7 @@
-
+html {
+  font-family: 'Molengo', sans-serif;
+  text-align: center;
+}
 .container {
   display: flex;
   background-color: #fff;
