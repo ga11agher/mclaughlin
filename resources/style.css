@@ -38,6 +38,12 @@ html {
   justify-content: center;
 }
 
+.container7 {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
 .blackbox {
   background-color: Black;
   height: 500px;
@@ -144,4 +150,38 @@ html {
   border-bottom: 5px solid black;
   border-right: 2px solid black;
   margin-right: 40px;
+}
+
+.gold-column {
+  background-color: Gold;
+  height: 500px;
+  width: 150px;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.white-column2 {
+  background-color: White;
+  height: 500px;
+  width: 150px;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.black-column3 {
+  background-color: Black;
+  height: 500px;
+  width: 50px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.blue-column2 {
+  background-color: DeepSkyBlue;
+  height: 500px;
+  width: 50px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
 }
