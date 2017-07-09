@@ -1,0 +1,90 @@
+
+.container {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
+.container2 {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
+.container3 {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
+.container4 {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
+.blackbox {
+  background-color: Black;
+  height: 500px;
+  width: 300px;
+  justify-content: center;
+}
+
+.greenbox {
+  background-color: SeaGreen;
+  height: 500px;
+  width: 300px;
+}
+
+.blackbox2 {
+  background-color: Black;
+  height: 500px;
+  width: 300px;
+  justify-content: center;
+  border: 1px solid black;
+}
+
+.whitebox {
+  background-color: White;
+  height: 500px;
+  width: 400px;
+  border: 1px solid black;
+}
+
+.blackbox-thin {
+  background-color: Black;
+  height: 500px;
+  width: 100px;
+  border: 1px solid black;
+}
+
+.whitebox-thin {
+  background-color: White;
+  height: 500px;
+  width: 100px;
+  border: 1px solid black;
+}
+
+.orangeredbox {
+  background-color: Orangered;
+  margin: 25px;
+  height: 500px;
+  width: 300px;
+}
+
+.dodgerbluebox {
+  background-color: Dodgerblue;
+  margin: 25px;
+  height: 500px;
+  width: 300px;
+
+}
+
+.bluebox-w-border {
+  background-color: #cce7ff;
+  margin: 25px;
+  height: 500px;
+  width: 200px;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+}
