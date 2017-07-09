@@ -42,7 +42,7 @@ html {
 .blackbox2 {
   background-color: Black;
   height: 500px;
-  width: 300px;
+  width: 250px;
   justify-content: center;
   border: 1px solid black;
 }
@@ -50,7 +50,7 @@ html {
 .whitebox {
   background-color: White;
   height: 500px;
-  width: 400px;
+  width: 250px;
   border: 1px solid black;
 }
 
