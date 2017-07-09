@@ -26,6 +26,18 @@ html {
   justify-content: center;
 }
 
+.container5 {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
+.container6 {
+  display: flex;
+  background-color: #fff;
+  justify-content: center;
+}
+
 .blackbox {
   background-color: Black;
   height: 500px;
@@ -57,14 +69,14 @@ html {
 .blackbox-thin {
   background-color: Black;
   height: 500px;
-  width: 100px;
+  width: 50px;
   border: 1px solid black;
 }
 
 .whitebox-thin {
   background-color: White;
   height: 500px;
-  width: 100px;
+  width: 50px;
   border: 1px solid black;
 }
 
@@ -90,4 +102,46 @@ html {
   width: 200px;
   border-top: 10px solid black;
   border-bottom: 10px solid black;
+}
+
+.yellow-column {
+  background-color: Yellow;
+  height: 350px;
+  width: 50px;
+}
+
+.black-column {
+  background-color: Black;
+  height: 350px;
+  width: 50px;
+}
+
+.blue-column {
+  background-color: #cce7ff;
+  height: 350px;
+  width: 50px;
+}
+
+.white-column {
+  background-color: White;
+  height: 350px;
+  width: 50px;
+}
+
+.black-column2 {
+  background-color: Black;
+  height: 500px;
+  width: 50px;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+}
+
+.red-column {
+  background-color: Red;
+  height: 500px;
+  width: 150px;
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  border-right: 2px solid black;
+  margin-right: 40px;
 }
